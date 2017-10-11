@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## LScrum Research Page
 
-You can use the [editor on GitHub](https://github.com/LScrumResearch/LScrumResearch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thanks for helping us conduct our research on our Android app!  We can't do it without fantastic people like you!  This should not take a huge amount of your time, and the features are only prototypes, which means they're not completely functional.  We just want to see what you think about these features.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### To Participate
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
