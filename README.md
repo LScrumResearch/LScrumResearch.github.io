@@ -15,7 +15,7 @@ Download the apk file (the app) and click install.  After installing, you can ju
 
 
 You can take a picture.  This picture will then overlay with your camera.  It will look like this:
-![image](https://drive.google.com/open?id=0Bzns0vDyd9oHbi1vWm1qWkdVb2s Drawing)
+![alt text](https://drive.google.com/open?id=0Bzns0vDyd9oHbi1vWm1qWkdVb2s "Drawing")
 
 
 Feedback Form Link: [Click Here](https://docs.google.com/forms/d/e/1FAIpQLScXmFh0fzvY6BaRjVMVzV6FlbgDlvRfB6FDNv4RdpPdz1oKcQ/viewform?usp=sf_link)
