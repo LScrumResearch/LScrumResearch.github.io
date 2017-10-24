@@ -15,7 +15,9 @@ Download the apk file (the app) and click install.  After installing, you can ju
 
 
 You can take a picture.  This picture will then overlay with your camera.  It will look like this:
-![alt text](https://github.com/LScrumResearch/LScrumResearch.github.io/blob/master/Screenshot_2017-10-22-19-20-11.png "Drawing")
+
+
+![alt text](https://github.com/LScrumResearch/LScrumResearch.github.io/blob/master/Screenshot_2017-10-22-19-20-11.png)
 
 
 Feedback Form Link: [Click Here](https://docs.google.com/forms/d/e/1FAIpQLScXmFh0fzvY6BaRjVMVzV6FlbgDlvRfB6FDNv4RdpPdz1oKcQ/viewform?usp=sf_link)
