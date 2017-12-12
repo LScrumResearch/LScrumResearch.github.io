@@ -8,7 +8,7 @@ By the time we build all of the features, the app will be an AR (Augmented Reali
 
 ### To Participate
 
-Go to the following link on your Android phone:  [Click Here](https://drive.google.com/file/d/0Bzns0vDyd9oHTHRBQkJjOEIzRk0/view?usp=sharing)
+Go to the following link on your Android phone:  [Click Here](https://drive.google.com/file/d/16pTqLtDjQz6QU1JYLZwrknZOkr155l-G/view?usp=sharing)
 
 
 Download the apk file (the app) and click install.  After installing, you can just open the app and log in with whatever username and password you wish (anything will work) and mess around!  There's also a short mini tutorial at the beginning to point at what the features should do.  After messing around, if you could fill out the feedback form below, we'd really appreciate it. 
